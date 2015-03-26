@@ -1,0 +1,15 @@
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Droid\bin\Debug\DailyDilbert.Droid.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.CrossCore.3.0.13-beta4\lib\MonoAndroid16\Cirrious.CrossCore.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.CrossCore.3.0.13-beta4\lib\MonoAndroid16\Cirrious.CrossCore.Droid.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.CrossCore.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Binding.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.CrossCore.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Binding.Droid.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Droid.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.CrossCore.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Localization.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.Plugin.DownloadCache.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.Plugin.DownloadCache.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.Plugin.File.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Plugins.File.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.Plugin.File.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Plugins.File.Droid.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.Plugin.Json.3.0.13-beta4\lib\MonoAndroid16\Cirrious.MvvmCross.Plugins.Json.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\bin\Debug\DailyDilbert.Core.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\packages\MvvmCross.HotTuna.Plugin.Json.3.0.13-beta4\lib\MonoAndroid16\Newtonsoft.Json.dll

@@ -1,0 +1,8 @@
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\bin\Debug\DailyDilbert.Core.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\bin\Debug\DailyDilbert.Core.pdb
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\bin\Debug\Cirrious.CrossCore.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\bin\Debug\Cirrious.MvvmCross.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\obj\Debug\DailyDilbert.Core.csprojResolveAssemblyReference.cache
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\obj\Debug\DailyDilbert.Core.dll
+Z:\Volumes\MySD\MyVsProj\MvvmCross-Tutorials-master\DailyDilbert\DailyDilbert.Core\obj\Debug\DailyDilbert.Core.pdb

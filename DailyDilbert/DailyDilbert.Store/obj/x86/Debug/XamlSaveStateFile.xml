@@ -1,0 +1,17 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmcross.hottuna.crosscore.3.0.13-beta4\lib\netcore45\cirrious.crosscore.dll" HashGuid="f895530a-6286-21cf-860e-3a8c9877a821" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmcross.hottuna.crosscore.3.0.13-beta4\lib\netcore45\cirrious.crosscore.windowsstore.dll" HashGuid="77f2feea-5b5a-3130-eb14-17eab58074fa" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.0.13-beta4\lib\netcore45\cirrious.mvvmcross.dll" HashGuid="4b9349af-5c22-95a0-e5dc-78779505adb5" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmcross.hottuna.crosscore.3.0.13-beta4\lib\netcore45\cirrious.mvvmcross.localization.dll" HashGuid="cc169ebc-6f40-271e-a9fe-e2fe4b3425db" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmcross.hottuna.mvvmcrosslibraries.3.0.13-beta4\lib\netcore45\cirrious.mvvmcross.windowsstore.dll" HashGuid="9c429cda-5e89-8bdc-6341-02321727cf62" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmhelpers.metro.2013.1.09.00\lib\winrt45\julmar.metro.behaviors.dll" HashGuid="9a8e7cba-e5f1-cb71-3f68-99550d8b9fc1" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmhelpers.metro.2013.1.09.00\lib\winrt45\julmar.metro.helpers.dll" HashGuid="9a5e4eda-1043-f32b-8dad-ffb0ba6f4701" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\mvvmhelpers.metro.2013.1.09.00\lib\winrt45\julmar.windows.interactivity.dll" HashGuid="29b3d358-46c2-df25-0eb8-c8c06da6bf67" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\microsoft.composition.1.0.16\lib\netcore45\system.composition.attributedmodel.dll" HashGuid="f6b6a8e3-bdec-7189-5d53-9b077bd5bc20" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\microsoft.composition.1.0.16\lib\netcore45\system.composition.convention.dll" HashGuid="cb4ef41b-8509-a354-2d3a-38f50d9f6b8d" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\microsoft.composition.1.0.16\lib\netcore45\system.composition.hosting.dll" HashGuid="c9ce6383-fde5-b0e0-3812-1b1e65a53977" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\microsoft.composition.1.0.16\lib\netcore45\system.composition.runtime.dll" HashGuid="520d7c90-06ed-c832-6ba8-5cc2b5e1ae33" />
+    <ReferenceAssembly PathName="z:\volumes\mysd\myvsproj\mvvmcross-tutorials-master\dailydilbert\packages\microsoft.composition.1.0.16\lib\netcore45\system.composition.typedparts.dll" HashGuid="7a56441f-7101-c5e2-8839-28722ea749e5" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>
